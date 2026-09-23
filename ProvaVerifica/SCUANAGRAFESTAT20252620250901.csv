@@ -1,0 +1,3 @@
+ID; descrizione; data; matricola; motivo;giustificato
+101; ”ritardo”;”15/10/2023 8:40”;”18111”;”Sveglia rotta”;True
+103; ”uscita”;”16/10/2023 11:10”;”19111”;NULL;False

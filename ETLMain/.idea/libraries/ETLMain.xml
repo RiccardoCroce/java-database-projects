@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ETLMain">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ETLMain.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
